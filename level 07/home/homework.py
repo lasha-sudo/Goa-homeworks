@@ -1,6 +1,6 @@
 name = input("enter your name: " )
 last_name = input("enter your last name: ")
-age = input("enter your name: ")
+age = int(input("enter your age: "))
 country = input("enter your country: ")
 city = input("enter your city: ")
 fav_color = input("enter your fav_color:")
