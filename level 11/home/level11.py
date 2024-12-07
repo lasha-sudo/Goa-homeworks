@@ -9,7 +9,7 @@ elif point > 70 and point < 79:
 elif point > 60 and point < 69:
     print("D")
 elif point < 60:
-    print("F")
+    print("F") 
 
 
 age = int(input("enter your age:"))
