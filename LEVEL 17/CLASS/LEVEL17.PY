@@ -24,12 +24,10 @@ print(value)
 
 # საკლასო 2 
 
-number1=int(input("enter your first number"))
-number2=int(input("enter your second number"))
-number3=int(input("enter your third number"))
+number1=int(input("enter your first number: "))
+number2=int(input("enter your second number: "))
+number3=int(input("enter your third number: "))
 
-while number3 > 0:
-    print(int(input("enter your number")))
 
 user_number = [number1 , number2 , number3]
 

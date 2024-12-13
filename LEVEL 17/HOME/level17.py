@@ -1,27 +1,21 @@
-
-
-
-
-
-
-
-#2 davaleba
-
 first_num = int(input("enter your first number: "))
+second_num = int(input("enter your second number: "))
+third_num = int(input("enter your third number: "))
+
+num = [first_num , second_num , third_num]
+
+print(num[0] + num[1] + num[2])
 
 
 
 
-next_nums = int(input("enter your next number "))
-tries = 100000000000000
 
-num = [first_num , next_nums]
 
-while next_nums > 0 and tries > -100000:
-    print(num)
 
-    tries -= 1
 
-    next_nums -=1
+
+
+
+
 
 
